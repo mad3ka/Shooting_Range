@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS and IDE
+.DS_Store
+.vscode/
+.idea/
+
+# Environment
+.env
+.env.*
+
+# Game saves
+saves/
+save_old.json

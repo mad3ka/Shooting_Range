@@ -1,0 +1,20 @@
+{
+  "lang": "en",
+  "bindings": {
+    "forward": "k:119",
+    "back": "k:115",
+    "left": "k:97",
+    "right": "k:100",
+    "sprint": "m:3",
+    "jump": "k:32",
+    "shoot": "m:1",
+    "aim": "k:1073742049",
+    "reload": "k:114",
+    "shop": "k:98",
+    "camera": "k:118"
+  },
+  "sensitivity": 1.0,
+  "invert_y": false,
+  "last_slot": 2,
+  "camera_mode": "first"
+}
